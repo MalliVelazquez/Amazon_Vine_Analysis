@@ -1,4 +1,4 @@
-# Amazon_Vine_Analysis
+#                                                               Amazon Vine Analysis
  
 ## Overview of the analysis
 In this project, we’ll have access to approximately 50 datasets. Each one contains reviews of a specific product, from clothing apparel to wireless products. We picked amazon_reviews_us_Toys_v1_00.tsv.gz to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. We use PySpark to determine if there is any bias toward favorable reviews from Vine members in your dataset. 
